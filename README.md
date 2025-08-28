@@ -1,1 +1,1 @@
-# Automa-o-Reda-o
+# Automação de REDAÇÃO
