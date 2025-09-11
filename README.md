@@ -22,18 +22,15 @@ Inclui um guia para transformar o script em um executável `.exe` portátil com 
 ---
 
 ## 🔧 Instalação e execução pelo Python
-Clone ou baixe este repositório. Depois, no terminal:
+Baixe este repositório. Depois, no terminal:
 
 ```bash
-# Crie um ambiente virtual
-python -m venv .venv
-.venv\Scripts\activate
 
-# Instale as dependências
-pip install -r requirements.txt
+# Instale o Playwright (apenas 1x)
+pip install playwright
 
-# Instale navegadores do Playwright (apenas 1x)
-playwright install chromium
+# Instale o Customtkinter (apenas 1x)
+playwright install customtkinter
 
 # Rode o script
 python main.py
