@@ -18,6 +18,7 @@ Inclui um guia para transformar o script em um executável `.exe` portátil com 
 - **Python 3.10+**
 - **pip**
 - **Google Chrome não é necessário** (o Playwright instala seu próprio Chromium).
+- **APENAS TROQUE O CHROME PELO CHROMIUM**
 
 ---
 
