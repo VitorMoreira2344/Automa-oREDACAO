@@ -203,7 +203,7 @@ auto-py-to-exe
 | Métrica | Antes | Depois | Melhoria |
 |---------|-------|--------|----------|
 | Tempo por aluno | 15-20 min | **30-60 seg** | **Redução de 95%** |
-| Alunos impactados | - | **100+** | 3 turmas completas |
+| Alunos impactados | - | **15+** | 3 turmas completas |
 | Satisfação | Baixa | **92%** | Feedback positivo |
 | Erros de transcrição | Comuns | **Praticamente zero** | Precisão total |
 
