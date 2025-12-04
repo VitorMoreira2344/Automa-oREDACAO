@@ -211,7 +211,7 @@ auto-py-to-exe
 
 | Membro | GitHub |
 |--------|--------|
-| **Vitor Rodrigues Moreira** | [@VitorMoreira2344](https://github.com/VitorMoreira44) |
+| **Vitor Rodrigues Moreira** | [@VitorMoreira44](https://github.com/VitorMoreira44) |
 | **Carlos Eduardo R. da Silva** | [@CarlosEduardo568](https://github.com/CarlosEduardo568) | Testes, documentação, empacotamento |
 
 ### 🎓 Orientação
