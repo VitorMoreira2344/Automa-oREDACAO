@@ -174,10 +174,7 @@ venv\Scripts\activate
 # Linux/Mac:
 source venv/bin/activate
 
-# 4. Instale as dependências
-pip install -r requirements.txt
-
-# 5. Execute o projeto
+# 4. Execute o projeto
 python main.py
 ```
 
@@ -189,11 +186,6 @@ pip install auto-py-to-exe
 # Execute o empacotador
 auto-py-to-exe
 
-# Configure:
-# - Script principal: main.py
-# - One File: ☑️
-# - Console Window: Hidden
-# - Icon: assets/icon.ico (se disponível)
 ```
 
 ## 📊 Resultados Alcançados
