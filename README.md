@@ -43,6 +43,26 @@ Nas aulas de Redação e Leitura, observamos as seguintes ineficiências:
 
 **Impacto**: Uma turma de 30 alunos gastava coletivamente **7.5 horas por semana** apenas com digitação manual.
 
+### Fluxo Otimizado:
+```mermaid
+graph LR
+    A[📝 Papel] --> B[📸 Digitalização]
+    B --> C[💻 Transferência]
+    C --> D[⚡ Automação]
+    D --> E[✅ Concluído]
+```
+
+#### Interface do Sistema
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Interface</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/788246b6-6e0d-458a-95bd-85c8f309a649" width="300"></td>
+  </table>
+</div>
+
 ## 🤖 Solução Proposta
 
 Desenvolvemos uma ferramenta de automação inteligente que:
@@ -61,14 +81,16 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Stack Principal:
-| Tecnologia | Finalidade | Versão |
-|------------|------------|---------|
-| **Python** | Linguagem principal | 3.11+ |
-| **Playwright** | Automação de navegador | Latest |
-| **PyAutoGUI** | Automação de interface | Latest |
-| **CustomTkinter** | Interface gráfica moderna | Latest |
-| **WiNotify** | Notificações Windows | Latest |
+
+<div align="center">
+  
+| Tecnologia | Logo | Descrição |
+|------------|------|-----------|
+| **Python** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Linguagem principal |
+| **Playwright** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white) | Automação de navegador |
+| **Tkinter** | ![Tkinter](https://img.shields.io/badge/-Tkinter-306998?logo=python&logoColor=white) | Interface gráfica |
+
+</div>
 
 ### Bibliotecas :
 - `auto-py-to-exe` - Empacotamento em .exe
@@ -76,21 +98,6 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 - `winotify ` - Para exibir notificações pop-up no Windows
 - `PyAutoGUI ` - Ações pontuais que exigem interação direta com a interface
 - `CustomTkinter ` - Interface gráfica moderna para login
-
-## 🚀 Como Funciona
-
-### Fluxo Completo:
-
-```mermaid
-graph LR
-    A[📝 Escrita no Papel] --> B[📸 Digitalização Google Lens]
-    B --> C[💻 Transferência para PC]
-    C --> D[🖥️ Interface AUTOMA-REDAÇÃO]
-    D --> E[🔐 Login Automático]
-    E --> F[📍 Navegação para REDAÇÃO PAULISTA]
-    F --> G[📋 Colagem Automática]
-    G --> H[✅ Envio Concluído]
-```
 
 ### Interface do Sistema:
 ```
