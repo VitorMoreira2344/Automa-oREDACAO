@@ -1,4 +1,4 @@
-![v](https://github.com/user-attachments/assets/368ca8c5-88da-417e-9a15-0a9db0cbb465)# AUTOMA-REDAÇÃO - Sistema de Automação para Redações Escolares
+# AUTOMA-REDAÇÃO - Sistema de Automação para Redações Escolares
 
 <div align="center">
   
@@ -147,12 +147,10 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 - 👥 Alternativa para diferentes perfis de alunos
 - 🔊 Integração com APIs de reconhecimento de voz
 
-
-#### Interface do Sistema
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Interface</strong></td>
+      <td align="center"><strong>transcrição de áudio</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/bd888d35-6e96-4e98-b4e9-c7db59873aad" width="300"></td>
