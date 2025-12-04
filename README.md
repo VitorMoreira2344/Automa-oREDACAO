@@ -135,12 +135,12 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 - Conta Google Educacional (para digitalização)
 
 ### Instalação Rápida (Usuário Final):
-1. **Baixe o executável** mais recente da [página de releases](#)
-2. **Execute** `AUTOMA_REDACAO.exe` (não requer instalação)
-3. **Configure suas credenciais** (uma única vez)
+1. **Baixe o executável** mais recente 
+2. **Execute** `AUTOMA_REDACAO.exe` 
+3. **Configure suas credenciais** 
 4. **Comece a usar!**
 
-### API de transcrição de áudio:
+## API de transcrição de áudio:
 1. **🎤 Transcrição por Voz**
 - 🎯 Mais agilidade no processo
 - ♿ Inclusão digital e acessibilidade
