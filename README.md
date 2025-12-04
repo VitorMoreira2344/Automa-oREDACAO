@@ -209,11 +209,11 @@ auto-py-to-exe
 ## 👥 Equipe
 
 ### Desenvolvedores:
-- **Vitor Rodrigues Moreira** - Desenvolvedor Principal
-- **Carlos Eduardo R. da Silva** - Co-desenvolvedor
+- **Vitor Rodrigues Moreira** - 
+- **Carlos Eduardo R. da Silva** - 
 
 ### Orientação:
-- **Prof. Adriel Batista da Silva** - Orientador
+- **Prof. Adriel Batista da Silva** - 
 
 ### Instituição:
 - **E.E. Prof. Gabriel Pozzi**
