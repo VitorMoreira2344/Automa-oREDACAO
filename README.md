@@ -222,7 +222,7 @@ auto-py-to-exe
 
 <div align="center">
 
-⭐ **Dê uma estrela no repositório se este projeto te ajudou!**
+⭐ **Dê uma estrela no repositório!**
 
 ---
 
