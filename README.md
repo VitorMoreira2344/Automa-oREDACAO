@@ -1,4 +1,4 @@
-# AUTOMA-REDAÇÃO - Sistema de Automação para Redações Escolares
+![v](https://github.com/user-attachments/assets/368ca8c5-88da-417e-9a15-0a9db0cbb465)# AUTOMA-REDAÇÃO - Sistema de Automação para Redações Escolares
 
 <div align="center">
   
@@ -52,16 +52,6 @@ graph LR
     D --> E[✅ Concluído]
 ```
 
-#### Interface do Sistema
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Interface</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/788246b6-6e0d-458a-95bd-85c8f309a649" width="300"></td>
-  </table>
-</div>
 
 ## 🤖 Solução Proposta
 
@@ -99,7 +89,7 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 - `PyAutoGUI ` - Ações pontuais que exigem interação direta com a interface
 - `CustomTkinter ` - Interface gráfica moderna para login
 
-### Interface do Sistema:
+### Esquema da Interface :
 ```
 ┌─────────────────────────────────┐
 │      AUTOMA-REDAÇÃO v1.0        │
@@ -115,6 +105,20 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 │       [ Entrar → ]              │
 └─────────────────────────────────┘
 ```
+
+
+#### Interface do Sistema
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Interface</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/788246b6-6e0d-458a-95bd-85c8f309a649" width="300"></td>
+  </table>
+</div>
+
+
 
 ### Funcionalidades da Automação:
 1. **Login Automático** - Acessa automaticamente o sistema "Sala do Futuro"
@@ -135,6 +139,26 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 2. **Execute** `AUTOMA_REDACAO.exe` (não requer instalação)
 3. **Configure suas credenciais** (uma única vez)
 4. **Comece a usar!**
+
+### API de transcrição de áudio:
+1. **🎤 Transcrição por Voz**
+- 🎯 Mais agilidade no processo
+- ♿ Inclusão digital e acessibilidade
+- 👥 Alternativa para diferentes perfis de alunos
+- 🔊 Integração com APIs de reconhecimento de voz
+
+
+#### Interface do Sistema
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Interface</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/bd888d35-6e96-4e98-b4e9-c7db59873aad" width="300"></td>
+  </table>
+</div>
+
 
 ### Para Desenvolvedores:
 
