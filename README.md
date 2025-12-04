@@ -208,12 +208,17 @@ auto-py-to-exe
 
 ## 👥 Equipe
 
-### Desenvolvedores:
-- **Vitor Rodrigues Moreira** - 
-- **Carlos Eduardo R. da Silva** - 
 
-### Orientação:
-- **Prof. Adriel Batista da Silva** - 
+| Membro | GitHub |
+|--------|--------|
+| **Vitor Rodrigues Moreira** | [@VitorMoreira2344](https://github.com/VitorMoreira2344) |
+| **Carlos Eduardo R. da Silva** | [@CarlosEduardo568](https://github.com/CarlosEduardo568) | Testes, documentação, empacotamento |
+
+### 🎓 Orientação
+
+| Membro | Função | GitHub |
+|--------|--------|--------|
+| **Prof. Adriel Batista da Silva** | Orientador | [@Adrielb5](https://github.com/Adrielb5) | 
 
 ### Instituição:
 - **E.E. Prof. Gabriel Pozzi**
