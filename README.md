@@ -150,7 +150,7 @@ Desenvolvemos uma ferramenta de automação inteligente que:
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>transcrição de áudio</strong></td>
+      <td align="center"><strong>Transcrição de áudio</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/bd888d35-6e96-4e98-b4e9-c7db59873aad" width="300"></td>
